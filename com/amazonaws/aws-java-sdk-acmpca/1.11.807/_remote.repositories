@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 25 05:48:11 ICT 2021
+aws-java-sdk-acmpca-1.11.807.jar>central=
+aws-java-sdk-acmpca-1.11.807.pom>central=
+aws-java-sdk-acmpca-1.11.807-sources.jar>central=

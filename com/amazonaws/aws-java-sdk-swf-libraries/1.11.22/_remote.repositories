@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 25 05:42:48 ICT 2021
+aws-java-sdk-swf-libraries-1.11.22.jar>central=
+aws-java-sdk-swf-libraries-1.11.22.pom>central=
+aws-java-sdk-swf-libraries-1.11.22-sources.jar>central=

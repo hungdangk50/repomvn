@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 13 11:11:21 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1647144681384
+@default-spring-milestone-https\://repo.spring.io/libs-milestone/.lastUpdated=1647144678230
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:pom\:2.12.4 from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:pom\:2.12.4 from/to spring-milestone (https\://repo.spring.io/libs-milestone)\: Not authorized
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1647144680916

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 25 05:46:26 ICT 2021
+google-cloud-firestore-2.5.1.jar>central=
+google-cloud-firestore-2.5.1-sources.jar>central=
+google-cloud-firestore-2.5.1.pom>central=

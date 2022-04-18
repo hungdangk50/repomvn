@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 25 05:45:12 ICT 2021
+grpc-api-1.38.0.jar>central=
+grpc-api-1.38.0.pom>central=
+grpc-api-1.38.0-sources.jar>central=

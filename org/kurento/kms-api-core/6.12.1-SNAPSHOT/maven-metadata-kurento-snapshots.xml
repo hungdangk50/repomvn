@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+  <groupId>org.kurento</groupId>
+  <artifactId>kms-api-core</artifactId>
+  <version>6.12.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>9</buildNumber>
+      <timestamp>20191217.112538</timestamp>
+    </snapshot>
+    <lastUpdated>20191217112538</lastUpdated>
+  </versioning>
+</metadata>

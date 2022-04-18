@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 13 11:23:25 ICT 2022
+spring-jcl-5.3.9.jar>spring-milestone=
+spring-jcl-5.3.9.pom>central=
+spring-jcl-5.3.9.pom>spring-milestone=
+spring-jcl-5.3.9.jar>central=

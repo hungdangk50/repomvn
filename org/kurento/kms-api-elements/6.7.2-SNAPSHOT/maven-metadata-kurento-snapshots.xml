@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+  <groupId>org.kurento</groupId>
+  <artifactId>kms-api-elements</artifactId>
+  <version>6.7.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <buildNumber>3</buildNumber>
+      <timestamp>20180511.161641</timestamp>
+    </snapshot>
+    <lastUpdated>20180511161641</lastUpdated>
+  </versioning>
+</metadata>

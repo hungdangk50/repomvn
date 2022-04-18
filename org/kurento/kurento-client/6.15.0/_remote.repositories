@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 25 05:45:48 ICT 2021
+kurento-client-6.15.0.jar>central=
+kurento-client-6.15.0-sources.jar>central=
+kurento-client-6.15.0.pom>central=

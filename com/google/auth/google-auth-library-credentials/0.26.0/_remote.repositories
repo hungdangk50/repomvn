@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 25 05:41:16 ICT 2021
+google-auth-library-credentials-0.26.0.jar>central=
+google-auth-library-credentials-0.26.0-sources.jar>central=
+google-auth-library-credentials-0.26.0.pom>central=

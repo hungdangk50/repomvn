@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 13 11:09:27 ICT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1647144567943
+@default-spring-milestone-https\://repo.spring.io/libs-milestone/.lastUpdated=1647144566384
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact io.github.openfeign\:feign-bom\:pom\:10.10.1 from/to spring-releases (https\://repo.spring.io/libs-release)\: Not authorized
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact io.github.openfeign\:feign-bom\:pom\:10.10.1 from/to spring-milestone (https\://repo.spring.io/libs-milestone)\: Not authorized
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1647144567483

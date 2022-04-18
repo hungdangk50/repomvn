@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 25 05:44:18 ICT 2021
+gax-grpc-1.65.0-sources.jar>central=
+gax-grpc-1.65.0.jar>central=
+gax-grpc-1.65.0.pom>central=
